@@ -1,0 +1,157 @@
+Cmp-Mod V01 Created by Cvpcb (2015-06-05 BZR 5717)-product   date = Monday, June 22, 2015 'PMt' 11:12:03 PM
+
+BeginCmp
+TimeStamp = /55858AC1;
+Reference = C1;
+ValeurCmp = C;
+IdModule  = Capacitors_Tantalum_SMD:TantalC_SizeC_EIA-6032_Reflow;
+EndCmp
+
+BeginCmp
+TimeStamp = /55858B50;
+Reference = C2;
+ValeurCmp = C;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /55858B7D;
+Reference = C3;
+ValeurCmp = C;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /55858E2A;
+Reference = C4;
+ValeurCmp = C;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5588CA9D;
+Reference = C5;
+ValeurCmp = C;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5588C88D;
+Reference = C6;
+ValeurCmp = CP;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5588C7C3;
+Reference = C7;
+ValeurCmp = CP;
+IdModule  = Capacitors_Tantalum_SMD:TantalC_SizeD_EIA-7343_Reflow;
+EndCmp
+
+BeginCmp
+TimeStamp = /5588C654;
+Reference = C8;
+ValeurCmp = CP;
+IdModule  = Capacitors_ThroughHole:C_Radial_D18_L36_P7.5;
+EndCmp
+
+BeginCmp
+TimeStamp = /5588D6C2;
+Reference = C9;
+ValeurCmp = C;
+IdModule  = Capacitors_SMD:C_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5588BC4C;
+Reference = JP1;
+ValeurCmp = JUMPER3;
+IdModule  = Connect:PINHEAD1-3;
+EndCmp
+
+BeginCmp
+TimeStamp = /5588BBF6;
+Reference = JP2;
+ValeurCmp = JUMPER3;
+IdModule  = Connect:PINHEAD1-3;
+EndCmp
+
+BeginCmp
+TimeStamp = /55858A31;
+Reference = P1;
+ValeurCmp = CONN_01X02;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x02;
+EndCmp
+
+BeginCmp
+TimeStamp = /5588D19A;
+Reference = P2;
+ValeurCmp = Programmer;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /5588F60C;
+Reference = P3;
+ValeurCmp = DEBUGME;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x08;
+EndCmp
+
+BeginCmp
+TimeStamp = /5588D4B4;
+Reference = P4;
+ValeurCmp = TMP_SENSOR;
+IdModule  = Pin_Headers:Pin_Header_Straight_1x03;
+EndCmp
+
+BeginCmp
+TimeStamp = /5588CC53;
+Reference = R1;
+ValeurCmp = R;
+IdModule  = Resistors_SMD:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5588D690;
+Reference = R2;
+ValeurCmp = R;
+IdModule  = Resistors_SMD:R_0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5588D92F;
+Reference = SP1;
+ValeurCmp = SPEAKER;
+IdModule  = Buzzers_Beepers:Buzzer_12x9.5RM7.6;
+EndCmp
+
+BeginCmp
+TimeStamp = /55858BA2;
+Reference = T1;
+ValeurCmp = TRANSFO;
+IdModule  = partlib:WE_EHPI;
+EndCmp
+
+BeginCmp
+TimeStamp = /5588C279;
+Reference = U1;
+ValeurCmp = MSP430G2231IN14;
+IdModule  = Housings_DIP:DIP-14_W7.62mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /558589D2;
+Reference = U2;
+ValeurCmp = LTC3108;
+IdModule  = Housings_SSOP:SSOP-16_3.9x4.9mm_Pitch0.635mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /5588CC8C;
+Reference = Y1;
+ValeurCmp = Crystal;
+IdModule  = Crystals:Crystal_Round_Vertical_3mm_BigPad;
+EndCmp
+
+EndListe
